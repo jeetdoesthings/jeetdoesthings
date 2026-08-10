@@ -1,3 +1,3 @@
 <!--ANIMAL_FACT_START-->
-🐸 Glass frogs have transparent skin on their underside, revealing their heart and organs.
+🐚 The nautilus has changed very little in over 500 million years, earning it the nickname 'living fossil.'
 <!--ANIMAL_FACT_END-->
