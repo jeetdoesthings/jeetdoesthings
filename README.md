@@ -1,3 +1,3 @@
 <!--ANIMAL_FACT_START-->
-🐚 The nautilus has changed very little in over 500 million years, earning it the nickname 'living fossil.'
+🐻 Sun bears have an extraordinarily long tongue, up to 25 cm, used to extract honey from hives.
 <!--ANIMAL_FACT_END-->
