@@ -1,3 +1,3 @@
 <!--ANIMAL_FACT_START-->
-🐻 Sun bears have an extraordinarily long tongue, up to 25 cm, used to extract honey from hives.
+🦜 Palm cockatoos use sticks to drum rhythmically against hollow trees to mark territory.
 <!--ANIMAL_FACT_END-->
