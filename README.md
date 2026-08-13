@@ -1,3 +1,3 @@
 <!--ANIMAL_FACT_START-->
-🦜 Palm cockatoos use sticks to drum rhythmically against hollow trees to mark territory.
+🦟 Only female mosquitoes bite; they need the protein in blood to develop their eggs.
 <!--ANIMAL_FACT_END-->
