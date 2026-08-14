@@ -1,3 +1,3 @@
 <!--ANIMAL_FACT_START-->
-🦟 Only female mosquitoes bite; they need the protein in blood to develop their eggs.
+🦑 Vampire squids eject bioluminescent mucus instead of ink when threatened in dark water.
 <!--ANIMAL_FACT_END-->
