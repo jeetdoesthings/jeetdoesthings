@@ -1,3 +1,3 @@
 <!--ANIMAL_FACT_START-->
-🦑 Vampire squids eject bioluminescent mucus instead of ink when threatened in dark water.
+🐊 Saltwater crocodiles are the largest living reptiles, reaching over 6 meters in length.
 <!--ANIMAL_FACT_END-->
