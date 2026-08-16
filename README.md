@@ -1,3 +1,3 @@
 <!--ANIMAL_FACT_START-->
-🐊 Saltwater crocodiles are the largest living reptiles, reaching over 6 meters in length.
+🦀 Horseshoe crabs have blue, copper-based blood used widely in medical safety testing.
 <!--ANIMAL_FACT_END-->
