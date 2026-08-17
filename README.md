@@ -1,3 +1,3 @@
 <!--ANIMAL_FACT_START-->
-🦀 Horseshoe crabs have blue, copper-based blood used widely in medical safety testing.
+🦜 The kakapo is the world's only flightless, nocturnal, and heaviest parrot species.
 <!--ANIMAL_FACT_END-->
