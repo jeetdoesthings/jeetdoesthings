@@ -1,3 +1,3 @@
 <!--ANIMAL_FACT_START-->
-🦜 The kakapo is the world's only flightless, nocturnal, and heaviest parrot species.
+🐋 Minke whales produce loud sound bursts called 'bioduck' noises underwater.
 <!--ANIMAL_FACT_END-->
