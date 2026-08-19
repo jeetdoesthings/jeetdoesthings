@@ -1,3 +1,3 @@
 <!--ANIMAL_FACT_START-->
-🐋 Minke whales produce loud sound bursts called 'bioduck' noises underwater.
+🐸 Some frogs can freeze solid in winter and thaw back to life in spring.
 <!--ANIMAL_FACT_END-->
