@@ -1,3 +1,3 @@
 <!--ANIMAL_FACT_START-->
-🐸 Some frogs can freeze solid in winter and thaw back to life in spring.
+🐧 Adelie penguins build nests out of small stones, and males often steal stones from their neighbors.
 <!--ANIMAL_FACT_END-->
