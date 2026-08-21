@@ -1,3 +1,3 @@
 <!--ANIMAL_FACT_START-->
-🐧 Adelie penguins build nests out of small stones, and males often steal stones from their neighbors.
+🐿️ Squirrels plant thousands of trees a year by forgetting where they buried their nuts.
 <!--ANIMAL_FACT_END-->
