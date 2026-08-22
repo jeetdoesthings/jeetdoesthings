@@ -1,3 +1,3 @@
 <!--ANIMAL_FACT_START-->
-🐿️ Squirrels plant thousands of trees a year by forgetting where they buried their nuts.
+🦊 Arctic fox fur changes from brown in summer to white in winter for camouflage.
 <!--ANIMAL_FACT_END-->
