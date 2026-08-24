@@ -1,3 +1,3 @@
 <!--ANIMAL_FACT_START-->
-🦓 Grevy's zebras are the largest wild equid species and have narrow, closely spaced stripes.
+🦂 Emperor scorpions can survive without food for up to a year by slowing their metabolism.
 <!--ANIMAL_FACT_END-->
