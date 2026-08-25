@@ -1,3 +1,3 @@
 <!--ANIMAL_FACT_START-->
-🦂 Emperor scorpions can survive without food for up to a year by slowing their metabolism.
+🦭 Ribbon seals have bold, natural white stripes contrasting against dark fur.
 <!--ANIMAL_FACT_END-->
