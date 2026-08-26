@@ -1,3 +1,3 @@
 <!--ANIMAL_FACT_START-->
-🦭 Ribbon seals have bold, natural white stripes contrasting against dark fur.
+🐡 A porcupinefish inflates itself with water, not air, when threatened underwater.
 <!--ANIMAL_FACT_END-->
