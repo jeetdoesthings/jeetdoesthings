@@ -1,3 +1,3 @@
 <!--ANIMAL_FACT_START-->
-🐡 A porcupinefish inflates itself with water, not air, when threatened underwater.
+🦋 Butterflies taste with their feet.
 <!--ANIMAL_FACT_END-->
