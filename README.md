@@ -1,3 +1,3 @@
 <!--ANIMAL_FACT_START-->
-🦋 Butterflies taste with their feet.
+🦡 Honey badgers have skin so thick and loose that they can twist around and bite a predator holding them.
 <!--ANIMAL_FACT_END-->
