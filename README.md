@@ -1,3 +1,3 @@
 <!--ANIMAL_FACT_START-->
-🪼 Box jellyfish have 24 eyes and can swim deliberately, unlike most drifting jellyfish.
+🐻‍❄️ Polar bear fur is actually transparent, not white, and their skin underneath is black.
 <!--ANIMAL_FACT_END-->
