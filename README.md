@@ -1,3 +1,3 @@
 <!--ANIMAL_FACT_START-->
-🐻‍❄️ Polar bear fur is actually transparent, not white, and their skin underneath is black.
+🐸 Wood frogs freeze solid during winter, stopping their heart, and thaw out alive in spring.
 <!--ANIMAL_FACT_END-->
