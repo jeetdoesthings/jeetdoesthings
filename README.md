@@ -1,3 +1,3 @@
 <!--ANIMAL_FACT_START-->
-🐸 Wood frogs freeze solid during winter, stopping their heart, and thaw out alive in spring.
+🐢 Leatherback turtles lack a bony shell, having a tough, rubbery skin instead.
 <!--ANIMAL_FACT_END-->
