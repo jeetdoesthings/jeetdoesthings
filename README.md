@@ -1,3 +1,3 @@
 <!--ANIMAL_FACT_START-->
-🐢 Leatherback turtles lack a bony shell, having a tough, rubbery skin instead.
+🐈 Pallas's cats have the dense fur of any cat to survive extreme alpine cold.
 <!--ANIMAL_FACT_END-->
