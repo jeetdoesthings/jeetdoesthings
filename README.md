@@ -1,3 +1,3 @@
 <!--ANIMAL_FACT_START-->
-🐈 Pallas's cats have the dense fur of any cat to survive extreme alpine cold.
+🐍 The inland taipan has the most toxic venom of any land snake, though it is shy and reclusive.
 <!--ANIMAL_FACT_END-->
