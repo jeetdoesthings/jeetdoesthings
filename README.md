@@ -1,3 +1,3 @@
 <!--ANIMAL_FACT_START-->
-🐍 The inland taipan has the most toxic venom of any land snake, though it is shy and reclusive.
+🐔 Chickens can remember and recognize over 100 different faces, including humans.
 <!--ANIMAL_FACT_END-->
