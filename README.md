@@ -1,3 +1,3 @@
 <!--ANIMAL_FACT_START-->
-🐌 A garden snail has thousands of tiny teeth arranged on a ribbon-like structure called a radula.
+🦎 Fire salamanders can spray neurotoxic skin secretions at potential threats.
 <!--ANIMAL_FACT_END-->
