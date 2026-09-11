@@ -1,3 +1,3 @@
 <!--ANIMAL_FACT_START-->
-🐍 Yellow-bellied sea snakes can absorb up to 33% of their oxygen needs through their skin underwater.
+🦎 Geckos can regrow their tails, though the replacement is made of cartilage, not bone.
 <!--ANIMAL_FACT_END-->
