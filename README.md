@@ -1,3 +1,3 @@
 <!--ANIMAL_FACT_START-->
-🦎 Geckos can regrow their tails, though the replacement is made of cartilage, not bone.
+🐢 Some turtles can breathe through their butts during hibernation.
 <!--ANIMAL_FACT_END-->
