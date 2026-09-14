@@ -1,3 +1,3 @@
 <!--ANIMAL_FACT_START-->
-🦎 Komodo dragons can detect carrion from several kilometers away using their forked tongues.
+🐟 Salmon can use Earth's magnetic field to navigate back to the exact river where they were born.
 <!--ANIMAL_FACT_END-->
