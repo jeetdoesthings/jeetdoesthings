@@ -1,3 +1,3 @@
 <!--ANIMAL_FACT_START-->
-🐟 Salmon can use Earth's magnetic field to navigate back to the exact river where they were born.
+🐢 Sea turtles can navigate thousands of kilometers back to the exact beach where they hatched to lay their own eggs.
 <!--ANIMAL_FACT_END-->
