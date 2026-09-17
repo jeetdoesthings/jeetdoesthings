@@ -1,3 +1,3 @@
 <!--ANIMAL_FACT_START-->
-🐋 Humpback whale songs can travel for miles underwater and change from year to year.
+🐙 Female blanket octopuses can grow up to 100 times larger than the tiny males.
 <!--ANIMAL_FACT_END-->
