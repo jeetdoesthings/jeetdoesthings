@@ -1,3 +1,3 @@
 <!--ANIMAL_FACT_START-->
-🐙 Female blanket octopuses can grow up to 100 times larger than the tiny males.
+🐙 The mimic octopus can impersonate the shape and movement of over a dozen other sea creatures.
 <!--ANIMAL_FACT_END-->
