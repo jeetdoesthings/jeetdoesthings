@@ -1,3 +1,3 @@
 <!--ANIMAL_FACT_START-->
-🐠 Mudskippers can walk on land using their pectoral fins and breathe through skin.
+🦛 Hippos secrete a natural reddish oily substance that acts as sunscreen and an antiseptic.
 <!--ANIMAL_FACT_END-->
