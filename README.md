@@ -1,3 +1,3 @@
 <!--ANIMAL_FACT_START-->
-🦛 Hippos secrete a natural reddish oily substance that acts as sunscreen and an antiseptic.
+🦔 Lesser hedgehog tenrecs can go into torpor for up to seven months a year to save energy.
 <!--ANIMAL_FACT_END-->
