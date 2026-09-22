@@ -1,3 +1,3 @@
 <!--ANIMAL_FACT_START-->
-🦔 Lesser hedgehog tenrecs can go into torpor for up to seven months a year to save energy.
+🦅 Ospreys have reversible outer toes that help them grip slippery fish with two claws forward, two back.
 <!--ANIMAL_FACT_END-->
