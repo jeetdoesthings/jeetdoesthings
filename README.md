@@ -1,3 +1,3 @@
 <!--ANIMAL_FACT_START-->
-🦅 Ospreys have reversible outer toes that help them grip slippery fish with two claws forward, two back.
+🐻 Sloth bears can close their nostrils voluntarily to keep dirt out while sucking up termites.
 <!--ANIMAL_FACT_END-->
