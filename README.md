@@ -1,3 +1,3 @@
 <!--ANIMAL_FACT_START-->
-🐻 Sloth bears can close their nostrils voluntarily to keep dirt out while sucking up termites.
+🦉 Burrowing owls nest underground and mimic rattlesnake rattles to deter predators.
 <!--ANIMAL_FACT_END-->
