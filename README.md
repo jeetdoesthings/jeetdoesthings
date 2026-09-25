@@ -1,3 +1,3 @@
 <!--ANIMAL_FACT_START-->
-🦉 Burrowing owls nest underground and mimic rattlesnake rattles to deter predators.
+🐜 The bullet ant has the most painful insect sting on Earth, comparable to being shot.
 <!--ANIMAL_FACT_END-->
