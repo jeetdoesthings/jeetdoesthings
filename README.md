@@ -1,3 +1,3 @@
 <!--ANIMAL_FACT_START-->
-🐜 The bullet ant has the most painful insect sting on Earth, comparable to being shot.
+🐺 Wolves have a much stronger sense of smell than dogs and can detect scents up to a mile away.
 <!--ANIMAL_FACT_END-->
