@@ -1,3 +1,3 @@
 <!--ANIMAL_FACT_START-->
-🐺 Wolves have a much stronger sense of smell than dogs and can detect scents up to a mile away.
+🐧 Gentoo penguins are the fastest underwater swimmers among birds, reaching 36 km/h.
 <!--ANIMAL_FACT_END-->
