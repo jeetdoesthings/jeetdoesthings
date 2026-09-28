@@ -1,3 +1,3 @@
 <!--ANIMAL_FACT_START-->
-🐧 Gentoo penguins are the fastest underwater swimmers among birds, reaching 36 km/h.
+🐆 A cheetah can accelerate from 0 to 100 km/h in about three seconds.
 <!--ANIMAL_FACT_END-->
