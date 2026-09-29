@@ -1,3 +1,3 @@
 <!--ANIMAL_FACT_START-->
-🐆 A cheetah can accelerate from 0 to 100 km/h in about three seconds.
+🐦 Secretarybirds stamp on snakes with a kicking force equal to five times their body weight.
 <!--ANIMAL_FACT_END-->
