@@ -1,3 +1,3 @@
 <!--ANIMAL_FACT_START-->
-🐦 Secretarybirds stamp on snakes with a kicking force equal to five times their body weight.
+🐜 Ants can carry objects up to 50 times their own body weight.
 <!--ANIMAL_FACT_END-->
