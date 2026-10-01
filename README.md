@@ -1,3 +1,3 @@
 <!--ANIMAL_FACT_START-->
-🐜 Ants can carry objects up to 50 times their own body weight.
+🦎 Marine iguanas excrete excess salt consumed underwater by sneezing it out.
 <!--ANIMAL_FACT_END-->
