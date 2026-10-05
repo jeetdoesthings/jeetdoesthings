@@ -1,3 +1,3 @@
 <!--ANIMAL_FACT_START-->
-🦋 Monarch butterflies migrate up to 4,800 kilometers, a journey no single butterfly completes alone across generations.
+🐳 Sperm whales have the largest brain of any animal on Earth, weighing around 8 kilograms.
 <!--ANIMAL_FACT_END-->
