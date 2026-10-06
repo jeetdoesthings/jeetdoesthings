@@ -1,3 +1,3 @@
 <!--ANIMAL_FACT_START-->
-🐳 Sperm whales have the largest brain of any animal on Earth, weighing around 8 kilograms.
+🐕 A dog's sense of smell is estimated to be tens of thousands of times more sensitive than a human's.
 <!--ANIMAL_FACT_END-->
