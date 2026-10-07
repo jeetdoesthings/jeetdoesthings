@@ -1,3 +1,3 @@
 <!--ANIMAL_FACT_START-->
-🐕 A dog's sense of smell is estimated to be tens of thousands of times more sensitive than a human's.
+🦈 Basking sharks filter up to 2,000 tons of seawater per hour for plankton.
 <!--ANIMAL_FACT_END-->
