@@ -1,3 +1,3 @@
 <!--ANIMAL_FACT_START-->
-🦈 Basking sharks filter up to 2,000 tons of seawater per hour for plankton.
+🦓 Every zebra's stripe pattern is unique, like a human fingerprint.
 <!--ANIMAL_FACT_END-->
