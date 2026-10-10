@@ -1,3 +1,3 @@
 <!--ANIMAL_FACT_START-->
-🦦 Giant river otters can reach over 1.8 meters in length and are nicknamed 'river wolves.'
+🐈 Margays can turn their hind feet 180 degrees, enabling them to run down trees headfirst.
 <!--ANIMAL_FACT_END-->
