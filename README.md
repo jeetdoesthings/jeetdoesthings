@@ -1,3 +1,3 @@
 <!--ANIMAL_FACT_START-->
-🐈 Margays can turn their hind feet 180 degrees, enabling them to run down trees headfirst.
+🪱 If a planarian flatworm is cut into tiny pieces, each piece can regenerate into a full worm.
 <!--ANIMAL_FACT_END-->
