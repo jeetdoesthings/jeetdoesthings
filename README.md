@@ -1,3 +1,3 @@
 <!--ANIMAL_FACT_START-->
-🪱 If a planarian flatworm is cut into tiny pieces, each piece can regenerate into a full worm.
+⭐ A starfish can regenerate an entire lost arm, and in some species, a whole new starfish from just one arm.
 <!--ANIMAL_FACT_END-->
