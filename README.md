@@ -1,3 +1,3 @@
 <!--ANIMAL_FACT_START-->
-⭐ A starfish can regenerate an entire lost arm, and in some species, a whole new starfish from just one arm.
+🦩 Lesser flamingos breed on caustic soda lakes that are toxic to most other animals.
 <!--ANIMAL_FACT_END-->
