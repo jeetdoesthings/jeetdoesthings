@@ -1,3 +1,3 @@
 <!--ANIMAL_FACT_START-->
-🦩 Lesser flamingos breed on caustic soda lakes that are toxic to most other animals.
+🐆 Jaguars have a bite force strong enough to pierce turtle shells and reptilian hides.
 <!--ANIMAL_FACT_END-->
