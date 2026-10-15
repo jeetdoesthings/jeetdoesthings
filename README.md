@@ -1,3 +1,3 @@
 <!--ANIMAL_FACT_START-->
-🐆 Jaguars have a bite force strong enough to pierce turtle shells and reptilian hides.
+🦉 Blind screech owls often live in symbiosis with blind snakes, which eat parasites in the owl's nest.
 <!--ANIMAL_FACT_END-->
