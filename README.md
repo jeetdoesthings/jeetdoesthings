@@ -1,3 +1,3 @@
 <!--ANIMAL_FACT_START-->
-🦉 Blind screech owls often live in symbiosis with blind snakes, which eat parasites in the owl's nest.
+🐸 Male Darwin's frogs carry developing tadpoles inside their vocal sacs until they metamorphose.
 <!--ANIMAL_FACT_END-->
