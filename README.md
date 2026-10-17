@@ -1,3 +1,3 @@
 <!--ANIMAL_FACT_START-->
-🐸 Male Darwin's frogs carry developing tadpoles inside their vocal sacs until they metamorphose.
+🐍 Pythons can go for months without eating after consuming a very large meal.
 <!--ANIMAL_FACT_END-->
