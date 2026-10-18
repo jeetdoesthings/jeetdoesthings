@@ -1,3 +1,3 @@
 <!--ANIMAL_FACT_START-->
-🐍 Pythons can go for months without eating after consuming a very large meal.
+🦈 Goblin sharks have retractable jaws that shoot forward to catch prey in deep ocean dark.
 <!--ANIMAL_FACT_END-->
