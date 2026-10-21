@@ -1,3 +1,3 @@
 <!--ANIMAL_FACT_START-->
-🦜 African grey parrots can understand numerical concepts, not just mimic speech.
+🐀 Rats are ticklish and will make ultrasonic chirping sounds similar to laughter when tickled.
 <!--ANIMAL_FACT_END-->
