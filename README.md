@@ -1,3 +1,3 @@
 <!--ANIMAL_FACT_START-->
-🐀 Rats are ticklish and will make ultrasonic chirping sounds similar to laughter when tickled.
+🐆 Leopards are strong enough to haul prey twice their own body weight up into trees.
 <!--ANIMAL_FACT_END-->
