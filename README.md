@@ -1,3 +1,3 @@
 <!--ANIMAL_FACT_START-->
-🐆 Leopards are strong enough to haul prey twice their own body weight up into trees.
+🦭 Weddell seals can hold their breath for over an hour.
 <!--ANIMAL_FACT_END-->
