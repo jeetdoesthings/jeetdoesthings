@@ -1,3 +1,3 @@
 <!--ANIMAL_FACT_START-->
-🦭 Weddell seals can hold their breath for over an hour.
+🦎 Frilled lizards erect a large neck ruff and run on two legs when frightened.
 <!--ANIMAL_FACT_END-->
