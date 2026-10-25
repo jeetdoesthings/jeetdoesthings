@@ -1,3 +1,3 @@
 <!--ANIMAL_FACT_START-->
-🦎 Frilled lizards erect a large neck ruff and run on two legs when frightened.
+🦎 Chameleons change color mainly to communicate mood and temperature, not just to camouflage.
 <!--ANIMAL_FACT_END-->
