@@ -1,3 +1,3 @@
 <!--ANIMAL_FACT_START-->
-🦎 Chameleons change color mainly to communicate mood and temperature, not just to camouflage.
+🐄 Cows have best friends and show signs of stress when separated from them.
 <!--ANIMAL_FACT_END-->
