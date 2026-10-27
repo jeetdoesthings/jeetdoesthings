@@ -1,3 +1,3 @@
 <!--ANIMAL_FACT_START-->
-🐄 Cows have best friends and show signs of stress when separated from them.
+🕊️ Pigeons can be trained to distinguish between different human artists' paintings.
 <!--ANIMAL_FACT_END-->
