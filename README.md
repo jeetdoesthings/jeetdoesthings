@@ -1,3 +1,3 @@
 <!--ANIMAL_FACT_START-->
-🕊️ Pigeons can be trained to distinguish between different human artists' paintings.
+🐳 A blue whale's heart alone can weigh as much as a small car.
 <!--ANIMAL_FACT_END-->
