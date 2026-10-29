@@ -1,3 +1,3 @@
 <!--ANIMAL_FACT_START-->
-🐳 A blue whale's heart alone can weigh as much as a small car.
+🦔 Hedgehogs are immune to a lot of snake venom.
 <!--ANIMAL_FACT_END-->
