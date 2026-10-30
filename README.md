@@ -1,3 +1,3 @@
 <!--ANIMAL_FACT_START-->
-🦔 Hedgehogs are immune to a lot of snake venom.
+🕷️ Spider silk is, by weight, stronger than steel.
 <!--ANIMAL_FACT_END-->
