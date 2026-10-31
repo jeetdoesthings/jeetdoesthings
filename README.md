@@ -1,3 +1,3 @@
 <!--ANIMAL_FACT_START-->
-🕷️ Spider silk is, by weight, stronger than steel.
+🐦‍⬛ Ravens have been observed planning ahead, saving tools for future use.
 <!--ANIMAL_FACT_END-->
