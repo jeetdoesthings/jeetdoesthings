@@ -1,3 +1,3 @@
 <!--ANIMAL_FACT_START-->
-🐦‍⬛ Ravens have been observed planning ahead, saving tools for future use.
+🦈 Sharks existed before trees, dating back over 400 million years.
 <!--ANIMAL_FACT_END-->
