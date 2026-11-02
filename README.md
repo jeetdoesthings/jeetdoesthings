@@ -1,3 +1,3 @@
 <!--ANIMAL_FACT_START-->
-🦈 Sharks existed before trees, dating back over 400 million years.
+🪱 Earthworms have five heart-like aortic arches that pump blood throughout their bodies.
 <!--ANIMAL_FACT_END-->
