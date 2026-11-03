@@ -1,3 +1,3 @@
 <!--ANIMAL_FACT_START-->
-🪱 Earthworms have five heart-like aortic arches that pump blood throughout their bodies.
+🐻 The spectacled bear is the only native bear species living in South America.
 <!--ANIMAL_FACT_END-->
