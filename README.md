@@ -1,3 +1,3 @@
 <!--ANIMAL_FACT_START-->
-🐻 The spectacled bear is the only native bear species living in South America.
+🐨 Wombats produce cube-shaped poop, which helps it stay stacked as a scent marker.
 <!--ANIMAL_FACT_END-->
