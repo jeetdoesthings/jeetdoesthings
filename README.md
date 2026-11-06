@@ -1,3 +1,3 @@
 <!--ANIMAL_FACT_START-->
-🐬 Dolphins sleep with one half of their brain at a time so they can keep breathing and watch for predators.
+🦩 Flamingos feed with their heads upside down, using their beaks to filter food from water and mud.
 <!--ANIMAL_FACT_END-->
