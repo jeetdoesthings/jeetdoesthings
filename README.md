@@ -1,3 +1,3 @@
 <!--ANIMAL_FACT_START-->
-🦩 Flamingos feed with their heads upside down, using their beaks to filter food from water and mud.
+🐠 Electric eels can generate up to 860 volts of electricity to stun prey and defend themselves.
 <!--ANIMAL_FACT_END-->
