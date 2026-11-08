@@ -1,3 +1,3 @@
 <!--ANIMAL_FACT_START-->
-🐠 Electric eels can generate up to 860 volts of electricity to stun prey and defend themselves.
+🐋 Belugas can change the shape of their forehead 'melon' to modulate their vocalizations.
 <!--ANIMAL_FACT_END-->
