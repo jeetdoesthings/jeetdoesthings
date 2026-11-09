@@ -1,3 +1,3 @@
 <!--ANIMAL_FACT_START-->
-🐋 Belugas can change the shape of their forehead 'melon' to modulate their vocalizations.
+🐌 A snail can sleep for up to three years at a time.
 <!--ANIMAL_FACT_END-->
