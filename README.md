@@ -1,3 +1,3 @@
 <!--ANIMAL_FACT_START-->
-🐆 Snow leopards use their long, thick tails for balance and wrap them around their face for warmth.
+🦗 Jerusalem crickets drum their abdomens against the ground to communicate with potential mates.
 <!--ANIMAL_FACT_END-->
