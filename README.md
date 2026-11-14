@@ -1,3 +1,3 @@
 <!--ANIMAL_FACT_START-->
-🦗 Jerusalem crickets drum their abdomens against the ground to communicate with potential mates.
+🐠 Archerfish shoot water droplets from their mouth to knock insects off branches into the water.
 <!--ANIMAL_FACT_END-->
