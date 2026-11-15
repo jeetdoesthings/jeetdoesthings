@@ -1,3 +1,3 @@
 <!--ANIMAL_FACT_START-->
-🐠 Archerfish shoot water droplets from their mouth to knock insects off branches into the water.
+🦎 Geckos can climb smooth glass thanks to microscopic hair structures on their toes that create molecular adhesion.
 <!--ANIMAL_FACT_END-->
