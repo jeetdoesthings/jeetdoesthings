@@ -1,3 +1,3 @@
 <!--ANIMAL_FACT_START-->
-🐧 The little blue penguin is the smallest penguin species, standing only around 30 cm tall.
+🦉 Great horned owls have no sense of smell, making skunks one of their frequent prey items.
 <!--ANIMAL_FACT_END-->
