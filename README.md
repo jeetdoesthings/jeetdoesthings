@@ -1,3 +1,3 @@
 <!--ANIMAL_FACT_START-->
-🦉 Great horned owls have no sense of smell, making skunks one of their frequent prey items.
+🦡 Wolverines can crush frozen bone and meat with jaws powerful enough to open frozen carcasses.
 <!--ANIMAL_FACT_END-->
