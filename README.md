@@ -1,3 +1,3 @@
 <!--ANIMAL_FACT_START-->
-🦡 Wolverines can crush frozen bone and meat with jaws powerful enough to open frozen carcasses.
+🦀 Japanese spider crabs have the largest leg span of any arthropod, reaching up to 3.7 meters.
 <!--ANIMAL_FACT_END-->
