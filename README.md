@@ -1,3 +1,3 @@
 <!--ANIMAL_FACT_START-->
-🦀 Japanese spider crabs have the largest leg span of any arthropod, reaching up to 3.7 meters.
+🕷️ Diving bell spiders spend almost their entire lives underwater using a web bubble as an aqualung.
 <!--ANIMAL_FACT_END-->
