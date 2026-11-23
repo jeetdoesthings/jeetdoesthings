@@ -1,3 +1,3 @@
 <!--ANIMAL_FACT_START-->
-🕷️ Diving bell spiders spend almost their entire lives underwater using a web bubble as an aqualung.
+🦔 Moonrats, or gymnures, give off a strong garlic-like odor to ward off predators.
 <!--ANIMAL_FACT_END-->
