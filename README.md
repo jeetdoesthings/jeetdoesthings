@@ -1,3 +1,3 @@
 <!--ANIMAL_FACT_START-->
-🦔 Moonrats, or gymnures, give off a strong garlic-like odor to ward off predators.
+🦆 Wood duck chicks jump out of tree hole nests shortly after hatching, falling up to 15 meters safely.
 <!--ANIMAL_FACT_END-->
