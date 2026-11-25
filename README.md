@@ -1,3 +1,3 @@
 <!--ANIMAL_FACT_START-->
-🦆 Wood duck chicks jump out of tree hole nests shortly after hatching, falling up to 15 meters safely.
+🪼 Irukandji jellyfish are thumbnail-sized, yet deliver one of the most painful venoms on Earth.
 <!--ANIMAL_FACT_END-->
