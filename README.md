@@ -1,3 +1,3 @@
 <!--ANIMAL_FACT_START-->
-🪼 Irukandji jellyfish are thumbnail-sized, yet deliver one of the most painful venoms on Earth.
+🦙 Llamas hum to communicate a range of emotions, from curiosity to distress.
 <!--ANIMAL_FACT_END-->
