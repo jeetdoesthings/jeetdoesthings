@@ -1,3 +1,3 @@
 <!--ANIMAL_FACT_START-->
-🦙 Llamas hum to communicate a range of emotions, from curiosity to distress.
+🦤 The dodo was a flightless bird endemic to Mauritius that went extinct in the 17th century.
 <!--ANIMAL_FACT_END-->
