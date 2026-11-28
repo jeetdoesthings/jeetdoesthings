@@ -1,3 +1,3 @@
 <!--ANIMAL_FACT_START-->
-🦤 The dodo was a flightless bird endemic to Mauritius that went extinct in the 17th century.
+🐬 Orcas, also called killer whales, are actually the largest members of the dolphin family.
 <!--ANIMAL_FACT_END-->
